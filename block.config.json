@@ -1,0 +1,21 @@
+{
+  "name": "18Julya",
+  "type": "package",
+  "blockId": "zwvJV91YIdJUbi9md465t",
+  "source": {
+    "https": null,
+    "ssh": null,
+    "branch": "block_18Julya"
+  },
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono",
+  "dependencies": {
+    "block_1": {
+      "directory": "block_1"
+    }
+  }
+}

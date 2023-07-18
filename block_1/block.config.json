@@ -1,0 +1,20 @@
+{
+  "blockId": "a5KgeksNtlkDm_C7sTpyg",
+  "name": "block_1",
+  "type": "function",
+  "source": {
+    "https": null,
+    "ssh": null,
+    "branch": "block_block_1"
+  },
+  "parentBlockIDs": [
+    "zwvJV91YIdJUbi9md465t"
+  ],
+  "repoType": "mono",
+  "language": "nodejs",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "isPublic": true,
+  "start": "node index.js"
+}
