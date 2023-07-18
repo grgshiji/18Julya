@@ -3,8 +3,8 @@
   "name": "block_1",
   "type": "function",
   "source": {
-    "https": null,
-    "ssh": null,
+    "https": "https://github.com/grgshiji/18Julya.git",
+    "ssh": "git@github.com:grgshiji/18Julya.git",
     "branch": "block_block_1"
   },
   "parentBlockIDs": [
